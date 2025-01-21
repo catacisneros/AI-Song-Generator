@@ -3,9 +3,11 @@
 This project uses AI to generate song lyrics. It leverages GPT-2 for text generation.
 
 ## Requirements
-- Python 3.x
-- torch
-- transformers
+- `torch`
+- `transformers`
+- `numpy`
+- `pandas`
+- `librosa`
 
 ## How to run
 1. Clone this repository.
