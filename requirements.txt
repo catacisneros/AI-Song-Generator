@@ -1,5 +1,6 @@
-transformers
 torch
-tensorflow
-magenta
-music21
+transformers
+numpy
+pandas
+librosa
+matplotlib
