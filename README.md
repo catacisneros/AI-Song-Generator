@@ -1,4 +1,5 @@
 # AI Song Generator
+## NOTE: Project is not finished. Unexpected output.
 
 This project uses AI to generate song lyrics. It leverages GPT-2 for text generation.
 
